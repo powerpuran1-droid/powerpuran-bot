@@ -6,8 +6,13 @@ This is the official homepage of **PowerPuran AI YouTube Automation Suite**.
 PowerPuran AI YouTube Automation Suite helps creators upload and manage YouTube videos automatically using AI and automation.
 
 ## Important Links
-- **Privacy Policy:** https://powerpuran1-droid.github.io/powerpuran-bot/privacy  
-- **Terms of Service:** https://www.youtube.com/t/terms
+
+🔗 **Privacy Policy:**  
+https://powerpuran1-droid.github.io/powerpuran-bot/privacy  
+
+🔗 **Terms of Service:**  
+https://www.youtube.com/t/terms  
 
 ## Contact
-If you have questions, contact: powerpuran1@gmail.com
+powerpuran1@gmail.com
+
